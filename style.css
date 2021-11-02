@@ -1,0 +1,11 @@
+*{
+    background-color: #333333;
+    font-family: 'Open Sans', sans-serif;
+}
+.text-welcome{
+    text-align: center;
+    color: blanchedalmond;
+}
+.text-clock{
+    font-size: 25px;
+}
